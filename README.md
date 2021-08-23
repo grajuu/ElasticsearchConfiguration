@@ -1,0 +1,2 @@
+# ElasticsearchConfiguration
+ElasticsearchConfiguration using ElasticsearchConfigurationSupport
